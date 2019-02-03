@@ -16,19 +16,34 @@ Full paper information can be found below
 arXiv: https://arxiv.org/abs/1806.04808
 
 @inproceedings{Pang:2018:LRU:3219819.3220042,
+
  author = {Pang, Guansong and Cao, Longbing and Chen, Ling and Liu, Huan},
+ 
  title = {Learning Representations of Ultrahigh-dimensional Data for Random Distance-based Outlier Detection},
+ 
  booktitle = {Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery \&\#38; Data Mining},
+ 
  series = {KDD '18},
+ 
  year = {2018},
+ 
  isbn = {978-1-4503-5552-0},
+ 
  location = {London, United Kingdom},
+ 
  pages = {2041--2050},
+ 
  numpages = {10},
+ 
  url = {http://doi.acm.org/10.1145/3219819.3220042},
+ 
  doi = {10.1145/3219819.3220042},
+ 
  acmid = {3220042},
+ 
  publisher = {ACM},
+ 
  address = {New York, NY, USA},
+ 
  keywords = {anomaly detection, dimension reduction, high-dimensional data, outlier detection, prior knowledge, representation learning, ultrahigh-dimensional data},
 } 
