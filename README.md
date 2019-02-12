@@ -1,6 +1,6 @@
 # deep outlier detection published in KDD18
 
-This repository presents you a deep distance-based outlier detection algorithm, which uses triplet networks to learn expressive feature representations for distance-based outlier detection methods.
+This repository presents you a deep outlier detection (or anomaly detection) algorithm, which uses triplet networks to learn expressive feature representations for distance-based outlier detection methods.
 
 Source codes are now available at my homepage https://sites.google.com/site/gspangsite/sourcecode. I will try to make it here.
 
