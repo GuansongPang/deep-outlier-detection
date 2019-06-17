@@ -2,8 +2,6 @@
 
 This repository presents you a deep outlier detection (or anomaly detection) algorithm, which uses triplet networks to learn expressive feature representations for distance-based outlier detection methods.
 
-Source codes are now available at my homepage https://sites.google.com/site/gspangsite/sourcecode. I will try to make it here.
-
 Paper abstract:
 Learning expressive low-dimensional representations of ultrahigh-dimensional data, e.g., data with thousands/millions of features, has been a major way to enable learning methods to address the curse of dimensionality. However, existing unsupervised representation learning methods mainly focus on preserving the data regularity information and learning the representations independently of subsequent outlier detection methods, which can result in suboptimal and unstable performance of detecting irregularities (i.e., outliers).
 
