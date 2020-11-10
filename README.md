@@ -21,7 +21,7 @@ A update made on 19 Nov 2019: Changing the way of loading model so that the code
 
 ## Full paper source:
 
-Full paper information can be found below at [arXiv](https://arxiv.org/abs/1806.04808) or [ACM Portal](https://dl.acm.org/doi/10.1145/3219819.3220042)
+Full paper can be found below at [arXiv](https://arxiv.org/abs/1806.04808) or [ACM Portal](https://dl.acm.org/doi/10.1145/3219819.3220042)
 
 ## Citation
 >Pang, G., Cao, L., Chen, L., & Liu, H. (2018, July). Learning representations of ultrahigh-dimensional data for random distance-based outlier detection. In Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (pp. 2041-2050).
