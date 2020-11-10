@@ -11,9 +11,9 @@ Extensive empirical results on eight real-world ultrahigh dimensional data sets 
 
 ## Usage
 The source code includes three files:rankod.py, rankod_sparse.py, and utilities.py.
->rankod.py is used for learning representations of dense data sets.
->rankod_sparse.py is used for learning representations of very sparse data sets.
->utilities.py contains some common functions used in both rankod.py and rankod_sparse.py.
+* rankod.py is used for learning representations of dense data sets.
+* rankod_sparse.py is used for learning representations of very sparse data sets.
+* utilities.py contains some common functions used in both rankod.py and rankod_sparse.py.
 
 Environment: Keras with Tensorflow as backend
 
